@@ -1,0 +1,6 @@
+framework module MultichannelLogin {
+  umbrella header "MultichannelLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}

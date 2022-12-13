@@ -1,0 +1,16 @@
+PODS:
+  - MultichannelLogin (0.1.0)
+
+DEPENDENCIES:
+  - MultichannelLogin (from `../`)
+
+EXTERNAL SOURCES:
+  MultichannelLogin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MultichannelLogin: f089d5376912e3be3f5d4c7fc1cb9a3dad690970
+
+PODFILE CHECKSUM: f426fab5644d5f75270c07e2169070cbf8e7bdd8
+
+COCOAPODS: 1.10.1
